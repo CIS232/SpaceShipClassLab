@@ -1,0 +1,2 @@
+# SpaceShipClassLab
+Inheritance!
